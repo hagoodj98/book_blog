@@ -13,7 +13,7 @@ import AddIcon from '@mui/icons-material/Add';
 import Footer from './components/footer';
 import { Work_Sans, Anton } from "next/font/google";
 import AutoStoriesIcon from '@mui/icons-material/AutoStories';
-
+import {Metadata} from 'next';
 
 const antonSC = Anton({
 subsets: ['latin'],
