@@ -33,7 +33,7 @@ npm install
 npm nodemon index.js
 
 	•	“Connection terminated unexpectedly”
-If your free‑tier Postgres on Render (or wherever) has paused, you’ll see that error because the free/tier has expired on my account. You could switch to a local Postgres connection in your .env.
+ You will see that error because the free/tier has expired on my account. You could switch to a local Postgres connection in your .env.
 
 By default the API listens on port 4000.
 
